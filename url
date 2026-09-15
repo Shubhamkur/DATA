@@ -1,0 +1,25 @@
+{
+  "id1": {
+    "url": "https://tv.rajeevromi55.workers.dev/proxy/https://techandeat.online/sliv/stream.m3u8?id={val}",
+    "map": {
+      "1": "1000009278",
+      "2": "1000009246",
+      "3": "1000009248"
+    }
+  },
+  "id2": {
+    "url": "https://crickcast-fam.pages.dev/api/proxy?u=https://cloudplay-sonyliv.pages.dev/{val}.m3u8",
+    "map": {
+      "1": "1000009246",
+      "2": "1000009248",
+      "3": "1000009259"
+    }
+  },
+  "id3": {
+    "url": "https://allinonereborn2.online/sony-new/playlists/{val}.m3u8",
+    "map": {
+      "1": "1000009273",
+      "2": "1000009247"
+    }
+  }
+}
