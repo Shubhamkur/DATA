@@ -2,24 +2,55 @@
   "id1": {
     "url": "https://tv1.ashoktyar1.workers.dev/proxy/https://techandeat.online/sliv/stream.m3u8?id={val}",
     "map": {
-      "1": "1000009278",
-      "2": "1000009246",
-      "3": "1000009248"
+      {
+  "1": "1000009276",
+  "2": "1000009280",
+  "3": "1000009277",
+  "4": "1000009279",
+  "5": "1000009278",
+  "6": "1000009283",
+  "7": "1000119186",
+  "8": "1000119187",
+  "9": "1000009281",
+  "10": "1000009281"
+}
+
     }
   },
   "id2": {
     "url": "https://tv.rajeevromi55.workers.dev/proxy/https://techandeat.online/sliv/stream.m3u8?id={val}",
     "map": {
-      "1": "1000009246",
-      "2": "1000009248",
-      "3": "1000009259"
+      {
+  "1": "1000009276",
+  "2": "1000009280",
+  "3": "1000009277",
+  "4": "1000009279",
+  "5": "1000009278",
+  "6": "1000009283",
+  "7": "1000119186",
+  "8": "1000119187",
+  "9": "1000009281",
+  "10": "1000009281"
+}
+
     }
   },
   "id3": {
-    "url": "https://tv.rajeevromi55.workers.dev/proxy/https://techandeat.online/sliv/stream.m3u8?id={val}",
+    "url": "https://crickcast-fam.pages.dev/api/proxy?u=https://cloudplay-sonyliv.pages.dev/{val}.m3u8",
     "map": {
-      "1": "",
-      "2": "1000009247"
+      {
+  "1": "ten1hd",
+  "2": "ten1",
+  "3": "ten2hd",
+  "4": "ten2",
+  "5": "ten3hd",
+  "6": "ten3",
+  "7": "ten4hd",
+  "8": "ten4",
+  "9": "ten5hd",
+  "10": "ten5"
+}
+
     }
   }
 }
