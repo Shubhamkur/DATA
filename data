@@ -93,10 +93,46 @@
     "44": "ekhon_tv_hd_abr",
     "45": "hum_tv_abr",
     "46": "hum_masala_abr",
-    "47": "hum_sitaray_abr"
+    "47": "hum_sitaray_abr" }
+},
+
+  "data5": {
+    "url": "https://fancodebyasif.pages.dev/?id={val}",
+    "map":{
+  "1": "STEN1",
+  "2": "STEN2",
+  "3": "STEN3",
+  "4": "STENT",
+  "5": "STENTU",
+  "6": "STEN5",
+  "7": "SETHD",
+  "8": "STEN1HD",
+  "9": "STEN2HD",
+  "10": "STEN3HD",
+  "11": "STEN5HD",
+  "12": "SMAX",
+  "13": "E1SD",
+  "14": "E1HD",
+  "15": "H1SD",
+  "16": "H1HD",
+  "17": "E2SD",
+  "18": "E2HD",
+  "19": "H2SD",
+  "20": "H2HD",
+  "21": "SS3",
+  "22": "SE1",
+  "23": "SE1HD",
+  "24": "SE2",
+  "25": "SE2HD",
+  "26": "T1SD",
+  "27": "T1HD",
+  "28": "TE1SD",
+  "29": "TE1HD",
+  "30": "KA1SD",
+  "31": "T2SD",
+  "32": "S2HD",
+  "33": "TE2SD",
+  "34": "TE2HD",
+  "35": "KA2SD"}
 }
-
-
-
-  }
 }
