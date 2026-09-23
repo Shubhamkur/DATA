@@ -1,51 +1,210 @@
 [
-  { 
-    "name": "1", 
-    "jsonList": "https://raw.githubusercontent.com/BDSTVHUB/BDStreamHub/refs/heads/main/index.html"
+  {
+    "name": "1",
+    "jsonList": "https://raw.githubusercontent.com/abusaeeidx/Ayna-BDIX-IPTV-Playlist/refs/heads/main/ayna-playlist.m3u"
   },
-  { 
-    "name": "2", 
-    "jsonList": "https://raw.githubusercontent.com/Sopnnonil775/Bdix3/refs/heads/main/Bdix.m3u"
+  {
+    "name": "2",
+    "jsonList": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u"
   },
-  { 
-    "name": "3", 
-    "jsonList": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bd-test.m3u"
-  },
-  { 
-    "name": "4", 
-    "jsonList": "https://raw.githubusercontent.com/Raisanbd/moive-rplex/refs/heads/main/Sports.m3u"
-  },
-  { 
-    "name": "5", 
-    "jsonList": "https://raw.githubusercontent.com/Rakib49/Rakibiptv/refs/heads/main/aynaott.m3u"
-  },
-  { 
-    "name": "6", 
-    "jsonList": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/in.m3u"
-  },
-  { 
-    "name": "7", 
-    "jsonList": "https://raw.githubusercontent.com/siam3310/cdn-tv/refs/heads/main/siamcdnplaylist.m3u"
-  },
-  
-  { 
-    "name": "8", 
-    "jsonList": "https://gist.githubusercontent.com/nsdevaraj/48239b1a55a1df69be38126ed1092e13/raw/f7199e81df2b8aadac908901f0a710fd6f227fe5/combined_playlist.m3u"
-  },
-{ 
-    "name": "9", 
+  {
+    "name": "3",
     "jsonList": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/combined-playlist.m3u"
   },
-  { 
-    "name": "10", 
+  {
+    "name": "4",
     "jsonList": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/refs/heads/main/Channels_data.json"
   },
-  { 
-    "name": "11", 
+  {
+    "name": "5",
+    "jsonList": "https://raw.githubusercontent.com/abusaeeidx/Yupptv-Playlist/refs/heads/main/playlist.m3u"
+  },
+  {
+    "name": "6",
+    "jsonList": "https://raw.githubusercontent.com/srhady/CricketLive/refs/heads/main/playlist.m3u"
+  },
+  {
+    "name": "7",
+    "jsonList": "https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u"
+  },
+  {
+    "name": "8",
+    "jsonList": "https://raw.githubusercontent.com/srhady/crichd-speical-live-event/refs/heads/main/playlist.m3u"
+  },
+  {
+    "name": "9",
+    "jsonList": "https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.json"
+  },
+  {
+    "name": "10",
+    "jsonList": "https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u"
+  },
+  {
+    "name": "11",
+    "jsonList": "https://raw.githubusercontent.com/srhady/toffee-bd/refs/heads/main/toffee_playlist.m3u"
+  },
+  {
+    "name": "12",
+    "jsonList": "https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/live_sports.json"
+  },
+  {
+    "name": "13",
+    "jsonList": "https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/live_sports.m3u"
+  },
+  {
+    "name": "14",
+    "jsonList": "https://raw.githubusercontent.com/sm-monirulislam/AynaOTT_Auto_Update_Playlist/refs/heads/main/aynaott.m3u"
+  },
+  {
+    "name": "15",
+    "jsonList": "https://raw.githubusercontent.com/sm-monirulislam/RoarZone-Auto-Update-playlist/refs/heads/main/RoarZone.m3u"
+  },
+  {
+    "name": "16",
+    "jsonList": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/refs/heads/main/Zee5.m3u"
+  },
+  {
+    "name": "17",
+    "jsonList": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/refs/heads/main/jio_tv.m3u"
+  },
+  {
+    "name": "18",
     "jsonList": "https://raw.githubusercontent.com/sm-monirulislam/SM-Movie-Hup-Auto-Update/refs/heads/main/Movie_Combined.m3u"
   },
-  { 
-    "name": "12", 
+  {
+    "name": "19",
+    "jsonList": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/refs/heads/main/Sports_data.json"
+  },
+  {
+    "name": "20",
+    "jsonList": "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/refs/heads/main/Sports_data.m3u"
+  },
+  {
+    "name": "21",
+    "jsonList": "https://raw.githubusercontent.com/amazeyourself/m3u/refs/heads/main/jtv.m3u"
+  },
+  {
+    "name": "22",
+    "jsonList": "https://raw.githubusercontent.com/amazeyourself/m3u/refs/heads/main/yupptvfast.m3u"
+  },
+  {
+    "name": "23",
+    "jsonList": "https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.json"
+  },
+  {
+    "name": "24",
+    "jsonList": "https://raw.githubusercontent.com/drmlive/sliv-live-events/main/sonyliv.json"
+  },
+  {
+    "name": "25",
+    "jsonList": "https://github.com/iptv-org/iptv/tree/master/streams"
+  },
+  {
+    "name": "26",
+    "jsonList": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/in.m3u"
+  },
+  {
+    "name": "27",
+    "jsonList": "https://raw.githubusercontent.com/BDSTVHUB/BDStreamHub/refs/heads/main/index.html"
+  },
+  {
+    "name": "28",
+    "jsonList": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u"
+  },
+  {
+    "name": "29",
+    "jsonList": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bd-test.m3u"
+  },
+  {
+    "name": "30",
+    "jsonList": "https://gist.githubusercontent.com/Mehedi-Hasan-404/563e929f577ddf142220865f0d209a57/raw/0486b2c6888777b587a6c9920c53bbe519e32fb5/Zee.m3u"
+  },
+  {
+    "name": "31",
     "jsonList": "https://raw.githubusercontent.com/NiezzaYT/ELHOPANESSROMTIC/refs/heads/main/theTV"
+  },
+  {
+    "name": "32",
+    "jsonList": "https://raw.githubusercontent.com/Raisanbd/moive-rplex/refs/heads/main/Sports.m3u"
+  },
+  {
+    "name": "33",
+    "jsonList": "https://raw.githubusercontent.com/Rakib49/Rakibiptv/refs/heads/main/aynaott.m3u"
+  },
+  {
+    "name": "34",
+    "jsonList": "https://gist.githubusercontent.com/Sk2025365/90d96a8776504fd57a251b857ec83c44/raw/d3ea40709a37f0df1e8ef3408223b78c237780cb/plus.json"
+  },
+  {
+    "name": "35",
+    "jsonList": "https://raw.githubusercontent.com/Sopnnonil775/Bdix3/refs/heads/main/Bdix.m3u"
+  },
+  {
+    "name": "36",
+    "jsonList": "https://raw.githubusercontent.com/Vk1817/Fancode_autoupdate/main/pranav.json"
+  },
+  {
+    "name": "37",
+    "jsonList": "https://raw.githubusercontent.com/ahan443/FAST-IPTV/refs/heads/main/z.m3u"
+  },
+  {
+    "name": "38",
+    "jsonList": "https://gist.githubusercontent.com/bdrajgaming654-byte/11d59f64cea2abb66c2b547dd6b9c208/raw/2fe0e827cebc2d2cde6795cc930c7d59a0f5343f/Teleghor-CLASSIC-LH.m3u"
+  },
+  {
+    "name": "39",
+    "jsonList": "https://raw.githubusercontent.com/chingithub1/iptv/refs/heads/main/Original"
+  },
+  {
+    "name": "40",
+    "jsonList": "https://raw.githubusercontent.com/doctor-8trange/zyphx8/refs/heads/main/data/fancode.json"
+  },
+  {
+    "name": "41",
+    "jsonList": "https://raw.githubusercontent.com/johirxofficial/otv-auto-updated-playlist/main/otv.m3u"
+  },
+  {
+    "name": "42",
+    "jsonList": "https://raw.githubusercontent.com/kajju027/Fancode-Events-Json/refs/heads/main/fancode.json"
+  },
+  {
+    "name": "43",
+    "jsonList": "https://gist.githubusercontent.com/nsdevaraj/48239b1a55a1df69be38126ed1092e13/raw/f7199e81df2b8aadac908901f0a710fd6f227fe5/combined_playlist.m3u"
+  },
+  {
+    "name": "44",
+    "jsonList": "https://github.com/opensourceflix/OpenSourceFlix/blob/main/papaos.m3u8"
+  },
+  {
+    "name": "45",
+    "jsonList": "https://gist.githubusercontent.com/rajmalviyan/f6c2f9ceacf61a55042496db4bdc9b3d/raw/75609f33760d47223cf6ec36b769389316f2a44e/indian-iptv.m3u8"
+  },
+  {
+    "name": "46",
+    "jsonList": "https://gist.githubusercontent.com/robsoncustodio/3699937e7b71963ceee22525882dab5d/raw/4e41d0e64fe5bed8a1a5f61bc9ff3d25057fe3fc/minhalista.m3u"
+  },
+  {
+    "name": "47",
+    "jsonList": "https://raw.githubusercontent.com/siam3310/cdn-tv/refs/heads/main/siamcdnplaylist.m3u"
+  },
+  {
+    "name": "48",
+    "jsonList": "https://raw.githubusercontent.com/subirkumarpaul/Subirmaxpro/refs/heads/main/Subirmaxpro"
+  },
+  {
+    "name": "49",
+    "jsonList": "https://raw.githubusercontent.com/time2shine/IPTV/refs/heads/master/combined.m3u"
+  },
+  {
+    "name": "50",
+    "jsonList": "https://m3u.ibert.me/txt/o_all.txt"
+  },
+  {
+    "name": "51",
+    "jsonList": "https://private-zone-by-xfireflix.pages.dev/playlist-isp-bdix.m3u"
+  },
+  {
+    "name": "52",
+    "jsonList": "https://willow-api.sayanwork-studioo.workers.dev/"
   }
 ]
