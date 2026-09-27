@@ -1,0 +1,208 @@
+
+https://rslivetv.pages.dev/
+https://rslivetv.pages.dev//bd76t2s1w9.json
+
+https://crickcast-fam.pages.dev/
+https://crickcast-fam.pages.dev/fc-play?url=
+https://crickcast-fam.pages.dev/api/proxy?u=
+
+https://hridoytv.top/
+https://hridoytvlive.pages.dev
+https://hridoytv.pages.dev/
+
+https://watchquidtv.blogspot.com/?m=1
+
+https://live.devm3u.top/
+
+https://sportsflixbd.pages.dev/Webtv/aa/webtv/
+
+https://epicsport.net/
+
+https://bestiptvpro.vercel.app/
+https://bestiptvpro.vercel.app/video.html?playlist=Sports.m3u
+
+https://mb.sportsflix.shop/
+
+https://mb.sportsflix.shop/fetch2.php
+
+https://www.fangalary.com/eTv.html
+
+https://bhoomtv.me/channel/hindi/page/5/
+
+https://bhoomtv.me
+
+https://webiptv.site/Spoapi.php
+
+https://webiptv.site/api/rtgx
+
+https://webiptv.site/ckk.txt
+
+https://webiptv.site/app.html
+
+https://webiptv.site/sskh
+
+https://webiptv.site/ckkh.txt
+
+https://epicsport.net/
+
+https://tv.akash-go.workers.dev
+
+https://index.ironmancreation.workers.dev/
+
+https://m3u8-player-ashen.vercel.app/
+
+https://sportlink10-ajp.pages.dev/all
+
+https://livecricketsl.cc.nf/events/
+
+https://obiramtvlive.pages.dev/
+
+https://playlist.emonsa4.workers.dev/playlist.m3u?t=1790091901250
+
+https://allinonereborn.online/
+
+https://allinonelivetv.pages.dev/
+
+https://jtvxweb.pages.dev/
+
+https://jtvxweb.pages.dev/pind?id=144
+
+https://mini.allinonereborn.site/events/
+https://allinonereborn2.online/events/
+
+https://esportslivepk.site/STAR-SPORTS-.html
+
+https://taimoor.pro.bd/mainlight/play.php?id=373207
+
+https://taimoor.pro.bd/live/otvs/playex.php?id=167575
+
+https://sportsflixbd.pages.dev/Webtv/aa/webtv/
+
+https://itcnbd.live/
+
+https://live.tmbplayer.site/
+
+https://rliveottpro.vercel.app/
+
+https://live.tmbplayer.site/
+
+https://cricket-yoddha-channel-1.vercel.app/
+
+https://sopnnonil775.github.io/bd/
+
+https://raw.githubusercontent.com/Sopnnonil775/Bdix3/refs/heads/main/Bdix.m3u
+
+https://sopnnonil775.github.io/s/
+
+https://rliveottpro.vercel.app/
+
+https://rakibtv.pages.dev/
+
+https://matcheslinkz.pages.dev/id.json
+https://tushar-stream-rho.vercel.app/play.html?id=hin
+
+https://proximitybd-mominrocks.lovable.app/
+
+https://restless-smoke-4e11.mominulislamm3u8.workers.dev/channels/.txt
+
+https://proximitybd-mominrocks.lovable.app/watch2/the-hundred-women
+
+https://restless-smoke-4e11.mominulislamm3u8.workers.dev/channels/the-hundred-women.txt
+
+https://femplyr.netlify.app/?url=
+
+https://www.ultrasports24.top/?m=1
+
+https://sm-monirul.top/
+
+https://browserplay-tv.pages.dev/jiotv
+
+https://hey-lookme.shop/jtv.php
+https://hey-lookme.shop/
+
+https://gdl-live-tv.pages.dev/jiotv
+https://api.freeforall.dev/
+https://liveess.lessgooguys.tech/
+https://liveess.lessgooguys.tech/jiotv
+
+https://binge-sports.pages.dev/
+https://nothing18.pages.dev/ch-list.txt
+
+https://hridoytv.pages.dev/
+https://hridoytv.top/
+https://hridoytvlive.pages.dev
+https://t.me/hridoytvx
+https://t.me/hridoytvchat
+
+https://hridoytv-config.pages.dev/config.json
+
+{
+  "version": 315,
+  "updatedAt": "2026-09-22T13:57:00.302Z",
+  "masterWorker": "https://api.hridoytvheart.workers.dev",
+  "playlists": {
+    "comb": "https://combined.hridoytv-route.workers.dev/hridoy=468063836.m3u",
+    "ag": "https://ag.hridoytvx.workers.dev/playlist-copy-kore-lav-nei-expire=685358567.m3u",
+    "jsbd": "https://jsbd.hridoytv-master.workers.dev/playlist-expire=37829292.m3u",
+    "cz": "https://cz-pli2.hridoytv-dish.workers.dev/playlist=4567366331420.m3u",
+    "sp": "https://sports-play.hridoytv-master.workers.dev/playlist-expire=48426875.m3u",
+    "temp-play": "https://temp-play.hridoytv-channel.workers.dev/playlist-expire=628292936.m3u",
+    "otv2": "https://otv.hridoytv-master.workers.dev/hridoytv-playlist.m3u?expire=47753355654",
+    "otv": "https://otv.hridoytv-engine.workers.dev/hridoytv-playlist.m3u?expire=47753355654",
+    "att": "https://rz.hridoytv-master.workers.dev/playlist=43682367123.m3u",
+    "test5": "https://temp-play.hridoytv-channel.workers.dev"
+  },
+  "proxyGroups": {
+    "play": {
+      "activeHost": "play.hridoytvtunel.workers.dev",
+      "knownHosts": [
+        "tbd.hossainhridoy.workers.dev",
+        "play.hridoytvtunel.workers.dev",
+        "play.hridoytv-top.workers.dev",
+        "play.hridoytv-engine.workers.dev"
+      ]
+    },
+    "jbd": {
+      "activeHost": "jbd.hossainhridoy.workers.dev",
+      "knownHosts": [
+        "jbd.hossainhridoy.workers.dev",
+        "jbd.hridoytv-node.workers.dev"
+      ]
+    },
+    "proxy": {
+      "activeHost": "proxy3.hridoytvgate.workers.dev",
+      "knownHosts": [
+        "proxy.hridoytv.workers.dev",
+        "proxy2.hridoytvstream.workers.dev",
+        "proxy3.hridoytvgate.workers.dev",
+        "proxy4.hridoytvtop.workers.dev",
+        "proxy5.hridoytv-link.workers.dev"
+      ]
+    },
+    "Pro": {
+      "activeHost": "pro.hellohridoy.workers.dev",
+      "knownHosts": [
+        "pro.hridoytv-pro.workers.dev",
+        "pro.hellohridoy.workers.dev",
+        "pro.hridoytv-iptv.workers.dev"
+      ]
+    }
+  }
+}
+
+Json
+
+https://cineiframe.cinearena08.workers.dev/
+
+https://allrounderid2.pages.dev/id.json
+
+https://allrounder3-0.pages.dev/id.json
+
+https://webiptv.site/api/rtgx
+
+https://lchdxfootball.pages.dev/premium.js
+
+https://matcheslinkz.pages.dev/id.json
+
+
+https://sonujson-v4.pages.dev/loura.json
