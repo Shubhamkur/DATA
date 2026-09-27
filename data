@@ -179,5 +179,67 @@
   "35": "KA2SD",
   "36": "EUROHD"
 }
+},
+
+"data6": {
+    "url": "https://stream.ottplus.live/live/{val}_abr/live/{val}_720/chunks.m3u8",
+    "map": {
+        "1": "and_picture_hd",
+        "2": "and_tv_hd",
+        "3": "sony_aath",
+        "4": "sony_ent_sd",
+        "5": "sony_ent_hd",
+        "7": "sony_yay",
+        "9": "sony_max_sd",
+        "10": "max_2",
+        "11": "max_hd",
+        "12": "sony_pix_hd",
+        "13": "ten_cricket_hd",
+        "14": "ten_1_hd",
+        "15": "ten_2_hd",
+        "16": "ten_5_hd",
+        "18": "zee_cinema_hd",
+        "19": "zee_tv_hd",
+        "20": "zee_action",
+        "21": "zee_anmol",
+        "22": "zee_bangla",
+        "23": "zee_bangla_cinema",
+        "24": "zee_bollywood",
+        "26": "zing_sd",
+        "29": "animal_planet_sd",
+        "30": "animal_planet_hd",
+        "40": "discovery_turbo",
+        "44": "ekhon_tv_hd",
+        "45": "hum_tv",
+        "46": "hum_masala",
+        "47": "hum_sitaray"
+    }
+},
+"data7": {
+    "url": "https://stream.ottplus.live/live/{val}/chunks.m3u8",
+    "map": {
+        "6": "sub_hd_abr/index.m3u8",
+        "8": "bbc_earth_hd_abr/index.m3u8",
+        "17": "euro_sports_hd",
+        "25": "zee_cafe_hd_abr/index.m3u8",
+        "27": "b4u_movies",
+        "28": "b4u_music",
+        "31": "animal_planet_hd",
+        "32": "pogo_sd",
+        "33": "cn_sd",
+        "34": "cn_hd",
+        "35": "cnn_sd",
+        "36": "discovery_sd",
+        "37": "discovery_hd",
+        "38": "discovery_kids",
+        "39": "discovery_science",
+        "41": "id_hd",
+        "42": "tlc_sd",
+        "43": "tlc_hd"
+    }
 }
+
+
+
+
 }
