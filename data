@@ -81,7 +81,7 @@
     }
   },
   "data4": {
-    "url": "https://drk6xq0vhn.gpcdn.net/live/{val}/index.m3u8",
+    "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://drk6xq0vhn.gpcdn.net/live/{val}/index.m3u8",
     "map": {
       "1": "and_picture_hd_720",
       "2": "and_tv_hd_720",
