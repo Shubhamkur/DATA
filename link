@@ -54,5 +54,7 @@
 "4": "https://tvsen6.aynaott.com/btSport1/index.m3u8",
 "3": "https://tvsen7.aynaott.com/tsn3/index.m3u8",
 "2": "https://tvsen7.aynascope.net/tsn2/index.m3u8",
-"1": "https://tvsen7.aynaott.com/tsn1/index.m3u8"
+"1": "https://tvsen7.aynaott.com/tsn1/index.m3u8",
+
+"0":"https://warm-caverns-48629-92fab798385f.herokuapp.com/http://livetv.akr4m.com:8080/bdtv/restrem/02.m3u8"
 }
