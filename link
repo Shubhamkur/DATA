@@ -1,8 +1,8 @@
 {
-"34":"https://papacito.cfd/m3u/324993/live.m3u8",
+"34":"",
 "33":"https://daviscup-veto.akamaized.net/f98c8ae68a354ab59a4e28e3dd700d4f/playlist.m3u8",
-"32":"https://papacito.cfd/m3u/441307/live.m3u8",
-"31":"https://papacito.cfd/m3u/2161753/live.m3u8",
+"32":"",
+"31":"",
 "30":"https://warm-caverns-48629-92fab798385f.herokuapp.com/http://livetv.akr4m.com:8080/bdtv/restrem/02.m3u8",
 "29":"https://warm-caverns-48629-92fab798385f.herokuapp.com/http://51.75.127.199:3141/starsports1/index.m3u8",
 "28":"https://warm-caverns-48629-92fab798385f.herokuapp.com/http://51.75.127.199:3141/starsports2/index.m3u8",
@@ -54,7 +54,6 @@
 "4": "https://tvsen6.aynaott.com/btSport1/index.m3u8",
 "3": "https://tvsen7.aynaott.com/tsn3/index.m3u8",
 "2": "https://tvsen7.aynascope.net/tsn2/index.m3u8",
-"1": "https://tvsen7.aynaott.com/tsn1/index.m3u8",
+"1": "https://tvsen7.aynaott.com/tsn1/index.m3u8"
 
-"0":"https://warm-caverns-48629-92fab798385f.herokuapp.com/http://livetv.akr4m.com:8080/bdtv/restrem/02.m3u8"
 }
