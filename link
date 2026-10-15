@@ -1,38 +1,29 @@
-{"35":"http://103.185.24.134:3001/ptv/index.m3u8",
-"34":"http://103.185.24.134:3001/A-SPORTS-HD/index.m3u8",
-"33":"http://103.185.24.134:3001/SonyTenCricket/index.m3u8",
-"32":"http://103.185.24.134:3001/TSportsHD/index.m3u8",
-
-"31":"https://daviscup-veto.akamaized.net/f98c8ae68a354ab59a4e28e3dd700d4f/playlist.m3u8",
-
-"30":"http://livetv.akr4m.com:8080/bdtv/restrem/02.m3u8",
-
-
-"29":"http://51.75.127.199:3141/starsports1/index.m3u8",
-"28":"http://51.75.127.199:3141/starsports2/index.m3u8",
-"27":"http://51.75.127.199:3141/starsportskhel/index.m3u8",
-
-"26":"https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8",
+{"35":"",
+"34":"",
+"33":"",
+"32":"",
+"31":"http://livetv.akr4m.com:8080/bdtv/restrem/02.m3u8",
+"30":"https://daviscup-veto.akamaized.net/f98c8ae68a354ab59a4e28e3dd700d4f/playlist.m3u8",
 
 
 
 
+"29":"https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8",
+"28":"https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8",
+
+
+"27":"https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8",
+
+
+
+"26":"https://flussonic.defineatoz.com/PTV/index.m3u8",
 "25":"https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8",
 "24":"https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8",
 "23":"https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8",
-"22":"https://flussonic.defineatoz.com/PTV/index.m3u8",
 
 
-
-
-
-
-
-
+"22":"https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8",
  "21":"https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
-
-
-
 
 
 "20":"https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8",
