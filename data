@@ -1,9 +1,5 @@
 {
-  "data1": {
-    "url": "http://103.185.24.134:3001/{val}/index.m3u8",
-    "map": {"1":"ptv","2":"TSportsHD","3":"A-SPORTS-HD","4":"EurosportHD","5":"willow","6":"SonyTenCricket","7":"ZeeTVHD","8":"ZeeCinemaHD","9":"ZeeAction","10":"ZeeBollywood","11":"Star-Plus","12":"Star-Gold","13":"StarSports1","14":"StarSports2","15":"SonyTenSports1","16":"SonyTenSports2","17":"SONY-BBC","18":"SONY-YAY","19":"NICK","20":"NICK-JR","21":"SONIC","22":"POGO","23":"CartoonNetwork","24":"DiscoveryKids","25":"HUNGAMA","26":"SUPER-HUNGAMA","27":"ETV-BAL-BHARAT","28":"Star-Movies","29":"SonyAath","30":"ZeeBangla","31":"ZEE-BANGLA-CINEMA","32":"COLORS-BANGLA-CINEMA","33":"JALSHA-MOVIES-HD","34":"SUN-BANGLA-HD","35":"RTV"}
-},
-
+  
   "data3": {
     "url": "https://crickcast-fam.pages.dev/api/proxy?u=https://cloudplay-sonyliv.pages.dev/{val}.m3u8",
     "map": {
