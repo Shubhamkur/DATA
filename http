@@ -1,0 +1,812 @@
+[
+  {
+    "id": "1A",
+    "name": "SONY HD",
+    "url": "http://38.96.178.205/SONYHD/index.m3u8"
+  },
+  {
+    "id": "2A",
+    "name": "ZEE TV",
+    "url": "http://38.96.178.205/ZEE_TV/index.m3u8"
+  },
+  {
+    "id": "1B",
+    "name": "A Sports HD",
+    "url": "http://103.185.24.134:3001/A-SPORTS-HD/index.m3u8"
+  },
+  {
+    "id": "2B",
+    "name": "Cartoon Network",
+    "url": "http://103.185.24.134:3001/CartoonNetwork/index.m3u8"
+  },
+  {
+    "id": "3B",
+    "name": "Colors Bangla Cinema",
+    "url": "http://103.185.24.134:3001/COLORS-BANGLA-CINEMA/index.m3u8"
+  },
+  {
+    "id": "4B",
+    "name": "Discovery Kids",
+    "url": "http://103.185.24.134:3001/DiscoveryKids/index.m3u8"
+  },
+  {
+    "id": "5B",
+    "name": "ETV Bal Bharat",
+    "url": "http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8"
+  },
+  {
+    "id": "6B",
+    "name": "Eurosport HD",
+    "url": "http://103.185.24.134:3001/EurosportHD/index.m3u8"
+  },
+  {
+    "id": "7B",
+    "name": "Hungama",
+    "url": "http://103.185.24.134:3001/HUNGAMA/index.m3u8"
+  },
+  {
+    "id": "8B",
+    "name": "Jalsha Movies HD",
+    "url": "http://103.185.24.134:3001/JALSHA-MOVIES-HD/index.m3u8"
+  },
+  {
+    "id": "9B",
+    "name": "Nick",
+    "url": "http://103.185.24.134:3001/NICK/index.m3u8"
+  },
+  {
+    "id": "10B",
+    "name": "Nick Jr",
+    "url": "http://103.185.24.134:3001/NICK-JR/index.m3u8"
+  },
+  {
+    "id": "11B",
+    "name": "Pogo",
+    "url": "http://103.185.24.134:3001/POGO/index.m3u8"
+  },
+  {
+    "id": "12B",
+    "name": "PTV",
+    "url": "http://103.185.24.134:3001/ptv/index.m3u8"
+  },
+  {
+    "id": "13B",
+    "name": "RTV",
+    "url": "http://103.185.24.134:3001/RTV/index.m3u8"
+  },
+  {
+    "id": "14B",
+    "name": "Sonic",
+    "url": "http://103.185.24.134:3001/SONIC/index.m3u8"
+  },
+  {
+    "id": "15B",
+    "name": "Sony Aath",
+    "url": "http://103.185.24.134:3001/SonyAath/index.m3u8"
+  },
+  {
+    "id": "16B",
+    "name": "Sony BBC Earth",
+    "url": "http://103.185.24.134:3001/SONY-BBC/index.m3u8"
+  },
+  {
+    "id": "17B",
+    "name": "Sony Max",
+    "url": "http://103.185.24.134:3001/SonyMAX/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "id": "18B",
+    "name": "Sony SAB HD",
+    "url": "http://103.185.24.134:3001/SonySABHD/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "id": "19B",
+    "name": "Sony Ten Cricket",
+    "url": "http://103.185.24.134:3001/SonyTenCricket/index.m3u8"
+  },
+  {
+    "id": "20B",
+    "name": "Sony Ten Sports 1",
+    "url": "http://103.185.24.134:3001/SonyTenSports1/index.m3u8"
+  },
+  {
+    "id": "21B",
+    "name": "Sony Ten Sports 2",
+    "url": "http://103.185.24.134:3001/SonyTenSports2/index.m3u8"
+  },
+  {
+    "id": "22B",
+    "name": "Sony YAY",
+    "url": "http://103.185.24.134:3001/SONY-YAY/index.m3u8"
+  },
+  {
+    "id": "23B",
+    "name": "Star Gold",
+    "url": "http://103.185.24.134:3001/Star-Gold/index.m3u8"
+  },
+  {
+    "id": "24B",
+    "name": "Star Movies",
+    "url": "http://103.185.24.134:3001/Star-Movies/index.m3u8"
+  },
+  {
+    "id": "25B",
+    "name": "Star Plus",
+    "url": "http://103.185.24.134:3001/Star-Plus/index.m3u8"
+  },
+  {
+    "id": "26B",
+    "name": "Star Sports 1",
+    "url": "http://103.185.24.134:3001/StarSports1/index.m3u8"
+  },
+  {
+    "id": "27B",
+    "name": "Star Sports 2",
+    "url": "http://103.185.24.134:3001/StarSports2/index.m3u8"
+  },
+  {
+    "id": "28B",
+    "name": "Sun Bangla HD",
+    "url": "http://103.185.24.134:3001/SUN-BANGLA-HD/index.m3u8"
+  },
+  {
+    "id": "29B",
+    "name": "Super Hungama",
+    "url": "http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8"
+  },
+  {
+    "id": "30B",
+    "name": "T Sports HD",
+    "url": "http://103.185.24.134:3001/TSportsHD/index.m3u8"
+  },
+  {
+    "id": "31B",
+    "name": "Willow",
+    "url": "http://103.185.24.134:3001/willow/index.m3u8"
+  },
+  {
+    "id": "32B",
+    "name": "Zee Action",
+    "url": "http://103.185.24.134:3001/ZeeAction/index.m3u8"
+  },
+  {
+    "id": "33B",
+    "name": "Zee Bangla",
+    "url": "http://103.185.24.134:3001/ZeeBangla/index.m3u8"
+  },
+  {
+    "id": "34B",
+    "name": "Zee Bangla Cinema",
+    "url": "http://103.185.24.134:3001/ZEE-BANGLA-CINEMA/index.m3u8"
+  },
+  {
+    "id": "35B",
+    "name": "Zee Bollywood",
+    "url": "http://103.185.24.134:3001/ZeeBollywood/index.m3u8"
+  },
+  {
+    "id": "36B",
+    "name": "Zee Cinema HD",
+    "url": "http://103.185.24.134:3001/ZeeCinemaHD/index.m3u8"
+  },
+  {
+    "id": "37B",
+    "name": "Zee TV HD",
+    "url": "http://103.185.24.134:3001/ZeeTVHD/index.m3u8"
+  },
+  {
+    "id": "1C",
+    "name": "&pictures",
+    "url": "http://107.167.16.138/andpictures/index.m3u8?token=test"
+  },
+  {
+    "id": "2C",
+    "name": "B4U Kadak",
+    "url": "http://107.167.16.138/b4ukadak/index.m3u8?token=test"
+  },
+  {
+    "id": "3C",
+    "name": "Boomerang",
+    "url": "http://107.167.16.138:80/boomerang/index.m3u8?token=test"
+  },
+  {
+    "id": "4C",
+    "name": "CP24",
+    "url": "http://107.167.16.138/cp24/index.m3u8?token=test"
+  },
+  {
+    "id": "5C",
+    "name": "Dangal",
+    "url": "http://107.167.16.138/dangal/index.m3u8?token=test"
+  },
+  {
+    "id": "6C",
+    "name": "DD National",
+    "url": "http://107.167.16.138/ddnational/index.m3u8?token=test"
+  },
+  {
+    "id": "7C",
+    "name": "Dhamaal",
+    "url": "http://107.167.16.138/dhamaal/index.m3u8?token=test"
+  },
+  {
+    "id": "8C",
+    "name": "History",
+    "url": "http://107.167.16.138/history/index.m3u8?token=test"
+  },
+  {
+    "id": "9C",
+    "name": "Manoranjan Movies",
+    "url": "http://107.167.16.138/manoranjanmovies/index.m3u8?token=test"
+  },
+  {
+    "id": "10C",
+    "name": "Nick Jr",
+    "url": "http://107.167.16.138/nickjr/index.m3u8?token=test"
+  },
+  {
+    "id": "11C",
+    "name": "Outdoor Channel",
+    "url": "http://107.167.16.138/OutdoorChannel/index.m3u8?token=test"
+  },
+  {
+    "id": "12C",
+    "name": "Polimer News",
+    "url": "http://107.167.16.138/polimernews/index.m3u8?token=test"
+  },
+  {
+    "id": "13C",
+    "name": "PTV Sports",
+    "url": "http://107.167.16.138/ptvsports/index.m3u8?token=test"
+  },
+  {
+    "id": "14C",
+    "name": "Sangeet Marathi",
+    "url": "http://107.167.16.138/sangeetmarathi/index.m3u8?token=test"
+  },
+  {
+    "id": "15C",
+    "name": "Shemaroo TV",
+    "url": "http://107.167.16.138/ShemarooTV/index.m3u8?token=test"
+  },
+  {
+    "id": "16C",
+    "name": "Shemaroo Umang",
+    "url": "http://107.167.16.138/ShemarooUmang/index.m3u8?token=test"
+  },
+  {
+    "id": "17C",
+    "name": "Sony Marathi",
+    "url": "http://107.167.16.138/sonymarathi/index.m3u8?token=test"
+  },
+  {
+    "id": "18C",
+    "name": "Sony Max 2",
+    "url": "http://107.167.16.138/sonymax2/index.m3u8?token=test"
+  },
+  {
+    "id": "19C",
+    "name": "Star Gold 2",
+    "url": "http://107.167.16.138/stargold2/index.m3u8?token=test"
+  },
+  {
+    "id": "20C",
+    "name": "Tarang TV",
+    "url": "http://107.167.16.138/tarangtv/index.m3u8?token=test"
+  },
+  {
+    "id": "21C",
+    "name": "TCM HD",
+    "url": "http://107.167.16.138/tcmhd/index.m3u8?token=test"
+  },
+  {
+    "id": "22C",
+    "name": "Zee Action",
+    "url": "http://107.167.16.138/zeeaction/index.m3u8?token=test"
+  },
+  {
+    "id": "23C",
+    "name": "Zee Classic",
+    "url": "http://107.167.16.138/zeeclassic/index.m3u8?token=test"
+  },
+  {
+    "id": "24C",
+    "name": "Zee Talkies",
+    "url": "http://107.167.16.138/zeetalkies/index.m3u8?token=test"
+  },
+  {
+    "id": "25C",
+    "name": "Zing",
+    "url": "http://107.167.16.138/zing/index.m3u8?token=test"
+  },
+  {
+    "id": "1D",
+    "name": "&TV",
+    "url": "http://103.151.60.162:2122/play/a020/index.m3u8?hls"
+  },
+  {
+    "id": "2D",
+    "name": "Al Jazeera English",
+    "url": "http://103.151.60.162:2122/play/a0ff/index.m3u8?hls"
+  },
+  {
+    "id": "3D",
+    "name": "BBC News Asia Pacific",
+    "url": "http://103.151.60.162:2122/play/a0fl/index.m3u8?hls"
+  },
+  {
+    "id": "4D",
+    "name": "Bflix Movies",
+    "url": "http://103.151.60.162:2122/play/a01e/index.m3u8?hls"
+  },
+  {
+    "id": "5D",
+    "name": "Colors",
+    "url": "http://103.151.60.162:2122/play/a02q/index.m3u8#fb:M3U_World_4K"
+  },
+  {
+    "id": "6D",
+    "name": "Colors Bangla Cinema",
+    "url": "http://103.151.60.162:2122/play/a02m/index.m3u8?hls"
+  },
+  {
+    "id": "7D",
+    "name": "Colors Bangla HD",
+    "url": "http://103.151.60.162:2122/play/a02o/index.m3u8?hls"
+  },
+  {
+    "id": "8D",
+    "name": "Colors Cineplex HD",
+    "url": "http://103.151.60.162:2122/play/a02s/index.m3u8?hls"
+  },
+  {
+    "id": "9D",
+    "name": "Colors HD",
+    "url": "http://103.151.60.162:2122/play/a02q/index.m3u8?hls"
+  },
+  {
+    "id": "10D",
+    "name": "Colors Infinity HD",
+    "url": "http://103.151.60.162:2122/play/a02r/index.m3u8?hls"
+  },
+  {
+    "id": "11D",
+    "name": "Disney International HD",
+    "url": "http://103.151.60.162:2122/play/a018/index.m3u8?hls"
+  },
+  {
+    "id": "12D",
+    "name": "Disney Junior",
+    "url": "http://103.151.60.162:2122/play/a016/index.m3u8?hls"
+  },
+  {
+    "id": "13D",
+    "name": "Enterr 10 Bangla",
+    "url": "http://103.151.60.162:2122/play/a0fa/index.m3u8?hls"
+  },
+  {
+    "id": "14D",
+    "name": "Epic Parivar",
+    "url": "http://103.151.60.162:2122/play/a01p/index.m3u8?hls"
+  },
+  {
+    "id": "15D",
+    "name": "History TV18",
+    "url": "http://103.151.60.162:2122/play/a00y/index.m3u8?hls"
+  },
+  {
+    "id": "16D",
+    "name": "HITS Movies",
+    "url": "http://103.151.60.162:2122/play/a01h/index.m3u8?hls"
+  },
+  {
+    "id": "17D",
+    "name": "Jalsha Movies HD",
+    "url": "http://103.151.60.162:2122/play/a00x/index.m3u8?hls"
+  },
+  {
+    "id": "18D",
+    "name": "Movies Now HD",
+    "url": "http://103.151.60.162:2122/play/a02w/index.m3u8?hls"
+  },
+  {
+    "id": "19D",
+    "name": "National Geographic Wild HD",
+    "url": "http://103.151.60.162:2122/play/a01f/index.m3u8?hls"
+  },
+  {
+    "id": "20D",
+    "name": "Nick Jr",
+    "url": "http://103.151.60.162:2122/play/a00s/index.m3u8?hls"
+  },
+  {
+    "id": "21D",
+    "name": "Nickelodeon Global",
+    "url": "http://103.151.60.162:2122/play/a017/index.m3u8?hls"
+  },
+  {
+    "id": "22D",
+    "name": "Rupasi Bangla",
+    "url": "http://103.151.60.162:2122/play/a02n/index.m3u8?hls"
+  },
+  {
+    "id": "23D",
+    "name": "Sonic",
+    "url": "http://103.151.60.162:2122/play/a02v/index.m3u8?hls"
+  },
+  {
+    "id": "24D",
+    "name": "Sony Aath",
+    "url": "http://103.151.60.162:2122/play/a023/index.m3u8?hls"
+  },
+  {
+    "id": "25D",
+    "name": "Sony Entertainment Television (Link 1)",
+    "url": "http://103.151.60.162:2122/play/a015/index.m3u8?hls"
+  },
+  {
+    "id": "26D",
+    "name": "Sony Entertainment Television (Link 2)",
+    "url": "http://103.151.60.162:2122/play/a01o/index.m3u8?hls"
+  },
+  {
+    "id": "27D",
+    "name": "Sony Max HD",
+    "url": "http://103.151.60.162:2122/play/a014/index.m3u8?hls"
+  },
+  {
+    "id": "28D",
+    "name": "Sony Pix HD",
+    "url": "http://103.151.60.162:2122/play/a01d/index.m3u8?hls"
+  },
+  {
+    "id": "29D",
+    "name": "Sony SAB",
+    "url": "http://103.151.60.162:2122/play/a01q/index.m3u8?hls"
+  },
+  {
+    "id": "30D",
+    "name": "Sony Sports Ten 1",
+    "url": "http://103.151.60.162:2122/play/a01c/index.m3u8?hls"
+  },
+  {
+    "id": "31D",
+    "name": "Sony Sports Ten 2",
+    "url": "http://103.151.60.162:2122/play/a01b/index.m3u8?hls"
+  },
+  {
+    "id": "32D",
+    "name": "Sony Sports Ten 3 Hindi",
+    "url": "http://103.151.60.162:2122/play/a01t/index.m3u8?hls"
+  },
+  {
+    "id": "33D",
+    "name": "Sony Sports Ten 4 Kannada",
+    "url": "http://103.151.60.162:2122/play/a021/index.m3u8?hls"
+  },
+  {
+    "id": "34D",
+    "name": "Sony Sports Ten 5",
+    "url": "http://103.151.60.162:2122/play/a028/index.m3u8?hls"
+  },
+  {
+    "id": "35D",
+    "name": "Star Gold 2 HD",
+    "url": "http://103.151.60.162:2122/play/a01v/index.m3u8?hls"
+  },
+  {
+    "id": "36D",
+    "name": "Star Gold HD",
+    "url": "http://103.151.60.162:2122/play/a01n/index.m3u8?hls"
+  },
+  {
+    "id": "37D",
+    "name": "Star Jalsha",
+    "url": "http://103.151.60.162:2122/play/a00w/index.m3u8?hls"
+  },
+  {
+    "id": "38D",
+    "name": "Star Kiran",
+    "url": "http://103.151.60.162:2122/play/a032/index.m3u8?hls"
+  },
+  {
+    "id": "39D",
+    "name": "Star Movies HD",
+    "url": "http://103.151.60.162:2122/play/a02k/index.m3u8?hls"
+  },
+  {
+    "id": "40D",
+    "name": "Star Plus HD",
+    "url": "http://103.151.60.162:2122/play/a0fo/index.m3u8?hls"
+  },
+  {
+    "id": "41D",
+    "name": "Star Sports 1",
+    "url": "http://103.151.60.162:2122/play/a01a/index.m3u8?hls"
+  },
+  {
+    "id": "42D",
+    "name": "Star Sports 2 (Link 1)",
+    "url": "http://103.151.60.162:2122/play/a00v/index.m3u8?hls"
+  },
+  {
+    "id": "43D",
+    "name": "Star Sports 2 (Link 2)",
+    "url": "http://103.151.60.162:2122/play/a019/index.m3u8?hls"
+  },
+  {
+    "id": "44D",
+    "name": "Star Sports 3",
+    "url": "http://103.151.60.162:2122/play/a029/index.m3u8?hls"
+  },
+  {
+    "id": "45D",
+    "name": "Star Sports Select 1 HD",
+    "url": "http://103.151.60.162:2122/play/a026/index.m3u8?hls"
+  },
+  {
+    "id": "46D",
+    "name": "Star Sports Select 2 HD",
+    "url": "http://103.151.60.162:2122/play/a027/index.m3u8?hls"
+  },
+  {
+    "id": "47D",
+    "name": "Sun TV HD",
+    "url": "http://103.151.60.162:2122/play/a02a/index.m3u8?hls"
+  },
+  {
+    "id": "48D",
+    "name": "Superhitz",
+    "url": "http://103.151.60.162:2122/play/a02f/index.m3u8?hls"
+  },
+  {
+    "id": "49D",
+    "name": "Ten Cricket",
+    "url": "http://103.151.60.162:2122/play/a0fj/index.m3u8?hls"
+  },
+  {
+    "id": "50D",
+    "name": "Travelxp HD",
+    "url": "http://103.151.60.162:2122/play/a01s/index.m3u8?hls"
+  },
+  {
+    "id": "51D",
+    "name": "Unite8 Sports 2",
+    "url": "http://103.151.60.162:2122/play/a01m/index.m3u8?hls"
+  },
+  {
+    "id": "52D",
+    "name": "WWE Network",
+    "url": "http://103.151.60.162:2122/play/a00p/index.m3u8?hls"
+  },
+  {
+    "id": "53D",
+    "name": "Zee Bangla",
+    "url": "http://103.151.60.162:2122/play/a011/index.m3u8?hls"
+  },
+  {
+    "id": "54D",
+    "name": "Zee Bangla HD",
+    "url": "http://103.151.60.162:2122/play/a02p/index.m3u8?hls"
+  },
+  {
+    "id": "55D",
+    "name": "Zee Cinema HD (Link 1)",
+    "url": "http://103.151.60.162:2122/play/a024/index.m3u8?hls"
+  },
+  {
+    "id": "56D",
+    "name": "Zee Cinema HD (Link 2)",
+    "url": "http://103.151.60.162:2122/play/a012/index.m3u8?hls"
+  },
+  {
+    "id": "57D",
+    "name": "Zee TV",
+    "url": "http://103.151.60.162:2122/play/a01u/index.m3u8?hls"
+  },
+  {
+    "id": "1E",
+    "name": "Disney Channel HD",
+    "url": "http://40.160.24.52/Disney_Channel_HD/index.m3u8"
+  },
+  {
+    "id": "1F",
+    "name": "ABC",
+    "url": "http://4.30.180.36:8420/abc/index.m3u8?token=test"
+  },
+  {
+    "id": "2F",
+    "name": "AMC",
+    "url": "http://4.30.180.36:8420/amc/index.m3u8?token=test"
+  },
+  {
+    "id": "3F",
+    "name": "Animal Planet",
+    "url": "http://4.30.180.36:8420/animal/index.m3u8?token=test"
+  },
+  {
+    "id": "4F",
+    "name": "Bravo",
+    "url": "http://4.30.180.36:8420/bravo/index.m3u8?token=test"
+  },
+  {
+    "id": "5F",
+    "name": "Cartoon",
+    "url": "http://4.30.180.36:8420/cartoon/index.m3u8?token=test"
+  },
+  {
+    "id": "6F",
+    "name": "CBS",
+    "url": "http://4.30.180.36:8420/cbs/index.m3u8?token=test"
+  },
+  {
+    "id": "7F",
+    "name": "CNN",
+    "url": "http://4.30.180.36:8420/cnn/index.m3u8?token=test"
+  },
+  {
+    "id": "8F",
+    "name": "Discovery",
+    "url": "http://4.30.180.36:8420/discovery/index.m3u8?token=test"
+  },
+  {
+    "id": "9F",
+    "name": "Disney Channel",
+    "url": "http://4.30.180.36:8420/disneychannel/index.m3u8?token=test"
+  },
+  {
+    "id": "10F",
+    "name": "ESPN",
+    "url": "http://4.30.180.36:8420/espn/index.m3u8?token=test"
+  },
+  {
+    "id": "11F",
+    "name": "ESPN 2",
+    "url": "http://4.30.180.36:8420/espn2/index.m3u8?token=test"
+  },
+  {
+    "id": "12F",
+    "name": "Fox News",
+    "url": "http://4.30.180.36:8420/foxnews/index.m3u8?token=test"
+  },
+  {
+    "id": "13F",
+    "name": "GetTV",
+    "url": "http://4.30.180.36:8420/gettv/index.m3u8?token=test"
+  },
+  {
+    "id": "14F",
+    "name": "HBO 2",
+    "url": "http://4.30.180.36:8420/hbo2/index.m3u8?token=test"
+  },
+  {
+    "id": "15F",
+    "name": "Heroes",
+    "url": "http://4.30.180.36:8420/heroes/index.m3u8?token=test"
+  },
+  {
+    "id": "16F",
+    "name": "HGTV",
+    "url": "http://4.30.180.36:8420/hgtv/index.m3u8?token=test"
+  },
+  {
+    "id": "17F",
+    "name": "History",
+    "url": "http://4.30.180.36:8420/history/index.m3u8?token=test"
+  },
+  {
+    "id": "18F",
+    "name": "HLN",
+    "url": "http://4.30.180.36:8420/hln/index.m3u8?token=test"
+  },
+  {
+    "id": "19F",
+    "name": "HSN",
+    "url": "http://4.30.180.36:8420/hsn/index.m3u8?token=test"
+  },
+  {
+    "id": "20F",
+    "name": "Kids",
+    "url": "http://4.30.180.36:8420/kids/index.m3u8?token=test"
+  },
+  {
+    "id": "21F",
+    "name": "Laff",
+    "url": "http://4.30.180.36:8420/laff/index.m3u8?token=test"
+  },
+  {
+    "id": "22F",
+    "name": "Lifetime",
+    "url": "http://4.30.180.36:8420/lifetime/index.m3u8?token=test"
+  },
+  {
+    "id": "23F",
+    "name": "MeTV",
+    "url": "http://4.30.180.36:8420/metv/index.m3u8?token=test"
+  },
+  {
+    "id": "24F",
+    "name": "Movies",
+    "url": "http://4.30.180.36:8420/movies/index.m3u8?token=test"
+  },
+  {
+    "id": "25F",
+    "name": "MSNBC",
+    "url": "http://4.30.180.36:8420/msnbc/index.m3u8?token=test"
+  },
+  {
+    "id": "26F",
+    "name": "MTV",
+    "url": "http://4.30.180.36:8420/mtv/index.m3u8?token=test"
+  },
+  {
+    "id": "27F",
+    "name": "NBC",
+    "url": "http://4.30.180.36:8420/nbc/index.m3u8?token=test"
+  },
+  {
+    "id": "28F",
+    "name": "OWN",
+    "url": "http://4.30.180.36:8420/own/index.m3u8?token=test"
+  },
+  {
+    "id": "29F",
+    "name": "Paramount",
+    "url": "http://4.30.180.36:8420/paramount/index.m3u8?token=test"
+  },
+  {
+    "id": "30F",
+    "name": "Showtime",
+    "url": "http://4.30.180.36:8420/showtime/index.m3u8?token=test"
+  },
+  {
+    "id": "31F",
+    "name": "Showtime Extreme",
+    "url": "http://4.30.180.36:8420/showtimeextreme/index.m3u8?token=test"
+  },
+  {
+    "id": "32F",
+    "name": "Start TV",
+    "url": "http://4.30.180.36:8420/starttv/index.m3u8?token=test"
+  },
+  {
+    "id": "33F",
+    "name": "TBS",
+    "url": "http://4.30.180.36:8420/tbs/index.m3u8?token=test"
+  },
+  {
+    "id": "34F",
+    "name": "Telex",
+    "url": "http://4.30.180.36:8420/telex/index.m3u8?token=test"
+  },
+  {
+    "id": "35F",
+    "name": "TLC",
+    "url": "http://4.30.180.36:8420/tlc/index.m3u8?token=test"
+  },
+  {
+    "id": "36F",
+    "name": "VH1",
+    "url": "http://4.30.180.36:8420/vh1/index.m3u8?token=test"
+  },
+  {
+    "id": "37F",
+    "name": "WFUTDT",
+    "url": "http://4.30.180.36:8420/wfutdt/index.m3u8?token=test"
+  },
+  {
+    "id": "38F",
+    "name": "WNETHD",
+    "url": "http://4.30.180.36:8420/wnethd/index.m3u8?token=test"
+  },
+  {
+    "id": "39F",
+    "name": "WWORTV",
+    "url": "http://4.30.180.36:8420/wwortv/index.m3u8?token=test"
+  },
+  {
+    "id": "40F",
+    "name": "WXTVDT",
+    "url": "http://4.30.180.36:8420/wxtvdt/index.m3u8?token=test"
+  }
+]
