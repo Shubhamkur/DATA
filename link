@@ -5,12 +5,14 @@
 
 "31":"https://daviscup-veto.akamaized.net/f98c8ae68a354ab59a4e28e3dd700d4f/playlist.m3u8",
 
-"30":"https://warm-caverns-48629-92fab798385f.herokuapp.com/http://livetv.akr4m.com:8080/bdtv/restrem/02.m3u8",
-"29":"https://warm-caverns-48629-92fab798385f.herokuapp.com/http://51.75.127.199:3141/starsports1/index.m3u8",
-"28":"https://warm-caverns-48629-92fab798385f.herokuapp.com/http://51.75.127.199:3141/starsports2/index.m3u8",
-"27":"https://warm-caverns-48629-92fab798385f.herokuapp.com/http://51.75.127.199:3141/starsportskhel/index.m3u8",
+"30":"http://livetv.akr4m.com:8080/bdtv/restrem/02.m3u8",
 
-"26":"https://warm-caverns-48629-92fab798385f.herokuapp.com/https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8",
+
+"29":"http://51.75.127.199:3141/starsports1/index.m3u8",
+"28":"http://51.75.127.199:3141/starsports2/index.m3u8",
+"27":"http://51.75.127.199:3141/starsportskhel/index.m3u8",
+
+"26":"https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8",
 
 
 
