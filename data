@@ -1,5 +1,33 @@
 {
-  
+    "data2": {
+    "url": "https://allinonereborn2.online/sony-new/playlists/{val}.m3u8",
+    "map": {
+    "1": "sony-hd",
+    "2": "sab-hd",
+    "3": "sony-marathi",
+    "4": "sony-pal",
+    "5": "sony-aath",
+    "6": "sony-yay",
+    "7": "sony-max-hd",
+    "8": "sony-max",
+    "9": "sony-wah",
+    "10": "sony-max2",
+    "11": "sony-pix-hd",
+    "12": "sony-ten-1-hd",
+    "13": "sony-ten-1",
+    "14": "sony-ten-2-hd",
+    "15": "sony-ten-2",
+    "16": "sony-ten-3-hd",
+    "17": "sony-ten-3",
+    "18": "sony-ten-4-hd",
+    "19": "sony-ten-4",
+    "20": "sony-ten-5-hd",
+    "21": "sony-ten-5",
+    "22": "bbc-earth"
+}
+
+
+  },
   "data3": {
     "url": "https://crickcast-fam.pages.dev/api/proxy?u=https://cloudplay-sonyliv.pages.dev/{val}.m3u8",
     "map": {
