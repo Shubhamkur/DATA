@@ -29,7 +29,7 @@
 
 
     "data2": {
-    "url": "https://allinonereborn2.online/sony-new/playlists/{val}.m3u8",
+    "url": "https://crickcast-fam.pages.dev/api/proxy?u=https://allinonereborn2.online/sony-new/playlists/{val}.m3u8",
     "map": {
     "1": "sony-hd",
     "2": "sab-hd",
