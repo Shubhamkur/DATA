@@ -1,5 +1,5 @@
 {   "data1": {
-    "url": "https://techandeat.online/sliv/stream.m3u8?id={val}",
+    "url": "https://tv.ashoktvgo.workers.dev/proxy/https://techandeat.online/sliv/stream.m3u8?id={val}",
     "map": {
     "1": "1000009246",
     "2": "1000009248",
@@ -29,7 +29,7 @@
 
 
     "data2": {
-    "url": "https://crickcast-fam.pages.dev/api/proxy?u=https://allinonereborn2.online/sony-new/playlists/{val}.m3u8",
+    "url": "https://sunny-relay-friend.lovable.app/api/public/px/sony?url=https://allinonereborn2.online/sony-new/playlists/{val}.m3u8",
     "map": {
     "1": "sony-hd",
     "2": "sab-hd",
