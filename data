@@ -29,30 +29,30 @@
 
 
     "data2": {
-    "url": "https://sunny-relay-friend.lovable.app/api/public/px/sony?url=https://allinonereborn2.online/sony-new/playlists/{val}.m3u8",
+    "url": "",
     "map": {
-    "1": "sony-hd",
-    "2": "sab-hd",
-    "3": "sony-marathi",
-    "4": "sony-pal",
-    "5": "sony-aath",
-    "6": "sony-yay",
-    "7": "sony-max-hd",
-    "8": "sony-max",
-    "9": "sony-wah",
-    "10": "sony-max2",
-    "11": "sony-pix-hd",
-    "12": "sony-ten-1-hd",
-    "13": "sony-ten-1",
-    "14": "sony-ten-2-hd",
-    "15": "sony-ten-2",
-    "16": "sony-ten-3-hd",
-    "17": "sony-ten-3",
-    "18": "sony-ten-4-hd",
-    "19": "sony-ten-4",
-    "20": "sony-ten-5-hd",
-    "21": "sony-ten-5",
-    "22": "bbc-earth"
+    "1": "2011671",
+    "2": "2011749",
+    "3": "2011740",
+    "4": "2011741",
+    "5": "2011641",
+    "6": "2011746",
+    "7": "2011670",
+    "8": "2011745",
+    "9": "2011906",
+    "10": "2011908",
+    "11": "2011748",
+    "12": "2011747",
+    "13": "2011739",
+    "14": "2020434",
+    "15": "2020590",
+    "16": "2020591",
+    "17": "2020592",
+    "18": "2020589",
+    "19": "2020437",
+    "20": "2020593",
+    "21": "2020594",
+    "22": "2011907"
 }
 
 
