@@ -1,5 +1,5 @@
 {   "data1": {
-    "url": "https://tv1.ashoktyar1.workers.dev/proxy/https://techandeat.online/sliv/stream.m3u8?id={val}",
+    "url": "https://tv.ashoktvgo.workers.dev/proxy/https://techandeat.online/sliv/stream.m3u8?id={val}",
     "map": {
     "1": "1000009246",
     "2": "1000009248",
@@ -28,7 +28,7 @@
   },
 
 "data2": {
-    "url": "https://akamaii.lovable.app/api/public/px/sony?url=https://dishmt.slivcdn.com/hls/live/{val}/master.m3u8?hdnea=exp=1792836899~acl=/*~id=70673408549303571971702191356711~hmac=c839801de23f8dd0f7a9625029cc9986fe015fea62f8796b6f162bcfefe99bd4",
+    "url": "https://sonyliv-beta.lovable.app/api/public/px/sony?url=https://dishmt.slivcdn.com/hls/live/{val}/master.m3u8?hdnea=exp=1792836899~acl=/*~id=70673408549303571971702191356711~hmac=c839801de23f8dd0f7a9625029cc9986fe015fea62f8796b6f162bcfefe99bd4",
     "map": {
     "1": "2011671/SETHD",
     "2": "2011749/SABHD",
