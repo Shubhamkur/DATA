@@ -273,5 +273,10 @@
     "id": "sports",
     "name": "54",
     "jsonList": "https://live.hacks.tools/iptv/categories/sports.m3u"
+  },
+{
+    "id": "sports",
+    "name": "54",
+    "jsonList": "https://raw.githubusercontent.com/sportlive18/Fancode-New-Auto-Update/main/fancode2.m3u"
   }
 ]
