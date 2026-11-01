@@ -28,7 +28,7 @@
   },
 
 "data2": {
-    "url": "https://sonyliv-beta.lovable.app/api/public/px/sony?url=https://dishmt.slivcdn.com/hls/live/{val}/hdntl=exp=1793386812~acl=%2f*~id=2b19723d-de2a-4547-9777-fd3028845dc8~data=hdntl~hmac=8547f24b5073bfca1da696821b285350b6fde5946cbecce4b1d6426c68f04a11/master_2000.m3u8",
+    "url": "https://sonyliv-beta.lovable.app/api/public/px/sony?url=https://dishmt.slivcdn.com/hls/live/{val}/hdntl=exp=1793563215~acl=%2f*~id=4ffea940-0304-4fa8-b7fa-f8f8e228e459~data=hdntl~hmac=7dd3252610bb38f050a8bf9d5fe0357661b282e7f19a926a8b8f9365b364dbc2/master_2000.m3u8",
     "map": {
     "1": "2011671/SETHD",
     "2": "2011749/SABHD",
