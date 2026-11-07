@@ -278,5 +278,13 @@
     "id": "sports",
     "name": "54",
     "jsonList": "https://raw.githubusercontent.com/sportlive18/Fancode-New-Auto-Update/main/fancode2.m3u"
+  },
+{
+    "id": "iptv",
+    "name": "55",
+    "jsonList": "https://iptv.b2og.com/txt/o_all.txt"
   }
+
+
+
 ]
