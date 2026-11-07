@@ -28,7 +28,7 @@
   },
 
 "data2": {
-    "url": "https://stream-through-spark.lovable.app/api/proxy?u=https://dishmt.slivcdn.com/hls/live/{val}/master.m3u8?hdnea=exp=1793784321~acl=/*~id=12778212577745667953176133326453~hmac=c2f67fa8ade17737ae8bae2c9ac5c8a93e8b96e49d2c2d4050b35619aac9c0be",
+    "url": "https://stream-through-spark.lovable.app/api/proxy?u=https://dishmt.slivcdn.com/hls/live/{val}/hdntl=exp=1794088809~acl=%2f*~id=4fddb3a6-9607-4fd6-9a3e-1e1f66f9ca7a~data=hdntl~hmac=fe272ff17597bf1ed167bc17bb2a1a0756c51b5aaca98be42d7a4089249a4a27/master_2000.m3u8",
     "map": {
     "1": "2011671/SETHD",
     "2": "2011749/SABHD",
