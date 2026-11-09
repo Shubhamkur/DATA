@@ -1,4 +1,4 @@
-[{
+{
   "1": "https://stream.example.com/live.m3u8",
   "web": "https://crickethighlights.com/embed",
 
@@ -10,4 +10,4 @@
       "3": "stream"
     }
   }
-}]
+}
