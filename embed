@@ -1,0 +1,13 @@
+[{
+  "1": "https://stream.example.com/live.m3u8",
+  "web": "https://crickethighlights.com/embed",
+
+  "embed0": {
+    "url": "https://sportlink-server.pages.dev/channel/{val}/live.html",
+    "map": {
+      "1": "sony_ten1",
+      "2": "star_sports1",
+      "3": "stream"
+    }
+  }
+}]
