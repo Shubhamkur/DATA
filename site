@@ -1,6 +1,11 @@
 {"000":"https://cine-proxy.pages.dev/universal?url=https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/hdntl=exp=1794567618~acl=%2f*~id=019dea22-ea80-4ba3-9ca4-6651a7c2d7e8~data=hdntl~hmac=b844af7b150daa40b69c8260594dc924569c0ba73b51aa4361cf08fdb4210b01/master_2000.m3u8",
 "00":"https://cinearena.fun/proxy/universal.php?url=https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/hdntl=exp=1794567618~acl=%2f*~id=019dea22-ea80-4ba3-9ca4-6651a7c2d7e8~data=hdntl~hmac=b844af7b150daa40b69c8260594dc924569c0ba73b51aa4361cf08fdb4210b01/master_1300.m3u8",
-"0":"https://stream-through-spark.lovable.app/api/proxy?u=https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/hdntl=exp=1794567618~acl=%2f*~id=019dea22-ea80-4ba3-9ca4-6651a7c2d7e8~data=hdntl~hmac=b844af7b150daa40b69c8260594dc924569c0ba73b51aa4361cf08fdb4210b01/master_3500.m3u8",
+
+
+
+"0":"https://sonucdn-v5.pages.dev/channel/all",
+
+
    "1": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ezawp6dxef/out/v1/89f7935bf21246fb971d93c016044f01/cenc.mpd69b4f7d5d85ff47192fce27c107246f78993f991655c84eb324bad2c1c551cc1",
 
    "2": "https://allrounder3-0.pages.dev/cricket/sony-3",
