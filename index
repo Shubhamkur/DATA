@@ -283,6 +283,11 @@
     "id": "iptv",
     "name": "55",
     "jsonList": "https://iptv.b2og.com/txt/o_all.txt"
+  },
+{
+    "id": "fancode",
+    "name": "55",
+    "jsonList": "https://raw.githubusercontent.com/Jitendra-unatti/fancode/refs/heads/main/data/fancode.json"
   }
 
 
