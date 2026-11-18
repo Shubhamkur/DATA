@@ -288,7 +288,8 @@
     "id": "fancode",
     "name": "55",
     "jsonList": "https://raw.githubusercontent.com/Jitendra-unatti/fancode/refs/heads/main/data/fancode.json"
-  }
+  },
+{"id":"sonyliv","name":"56","jsonList":"https://raw.githubusercontent.com/sportlive18/Sonyliv-Playlist-Autoupdate/main/sony.m3u"}
 
 
 
