@@ -46,7 +46,7 @@
 
   },
 
-"data2": {
+"data3": {
     "url": "https://stream-through-spark.lovable.app/api/proxy?u=https://dishmt.slivcdn.com/hls/live/{val}/hdntl=exp=1795874850~acl=%2f*~id=f23539ac-f5cf-4a30-8a2b-677f516252b0~data=hdntl~hmac=eda22411f2a1deb535f6100bb32c44b7332f55e43749482c4422889e26cc5b74/master_2000.m3u8",
     "map": {
     "1": "2011671/SETHD",
@@ -80,8 +80,8 @@
 
     
     
-  "data3": {
-    "url": "https://stream-through-spark.lovable.app/api/proxy?u=https://sonuxssliv.pages.dev/sliv/{val}.m3u8",
+  "data2": {
+    "url": "https://jute-chappal.lovable.app/api/public/hls?url=https://jo-isp-sa-block-kare-uski-maa-ki-xhud.pages.dev//sliv/{val}.m3u8",
     "map": {
       "1": "sethd",
       "2": "sabhd",
